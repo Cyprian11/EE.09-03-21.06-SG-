@@ -16,7 +16,7 @@ body{
     height: 70px;
     float: left;
 }
-.Polecamy,Fantastyczne{
+.Polecamy{
     background-color: #B0BEC5; 
     height: 320px;
     color: white;
@@ -26,9 +26,9 @@ body{
 .stopka{
     background-color: #29434E;
     color: white;
-
+    clear: both;
 }
-.film{
+#img{
     padding: 5px;
     width:226px; 
     height: 280px;
